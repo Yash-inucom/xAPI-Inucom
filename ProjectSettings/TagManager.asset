@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Key
+  - InputField
+  - Keyboard
+  - OptionPanel
+  - Instructions
+  - ButtonTest
+  - TestButtonHolder
+  - ClassQuestionExample
+  - QuestionEx
+  - questionCanvas
+  - answerButtons
+  - classCanvas
+  - Question
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Keys
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
